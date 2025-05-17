@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaasif2002&layout=compact&theme=radical" alt="hamza languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaasif2002&show_icons=true&theme=radical" alt="hamza stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaasif2002&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaasif2002&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; width: 50%;" />
 </p>
 
 ---
