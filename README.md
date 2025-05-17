@@ -34,24 +34,14 @@
 </div>
 
 ---
-
-### 🚀 Featured Projects
-- 🔹 [HTML Resume](https://github.com/HamzaAsif2002/HTML-Resume)
-- 🔹 [Simple Portfolio](https://github.com/HamzaAsif2002/Portfolio)
-- 🔹 [Basic Business Web Page](https://github.com/HamzaAsif2002/Business-Web-Page)
-
----
-
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaasif2002&show_icons=true&theme=radical" alt="hamza stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaasif2002&layout=compact&theme=radical" alt="hamza languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaasif2002&layout=compact&theme=radical" alt="hamza languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaasif2002&show_icons=true&theme=radical" alt="hamza stats" height="200" />
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 <p>
   <a href="https://github.com/hamzaasif2002" target="_blank">
