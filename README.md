@@ -1,6 +1,13 @@
+
 <div>
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Motivational Banner" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/HamzaAsif2002/HamzaAsif2002/main/hamza.png" 
+    alt="logo"
+    style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
+  >
 </div>
+
+
 
 
 <h1 align="center">Hi 👋, I'm Hamza Asif</h1>
