@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Contact Me
-- 💌 Email: **hamza2002asif@gmail.com**
+- 💌 Email: **hamza20021asif@gmail.com**
 - 🌐 Portfolio: Coming soon...
 
 ---
@@ -54,7 +54,7 @@
   <a href="https://github.com/hamzaasif2002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hamza2002asif@gmail.com" target="_blank">
+  <a href="mailto:hamza20021asif@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
