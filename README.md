@@ -1,9 +1,9 @@
 
 <div>
   <img 
-    src="https://raw.githubusercontent.com/HamzaAsif2002/HamzaAsif2002/main/hamza.png" 
+    src="https://raw.githubusercontent.com/HamzaAsif2002/HamzaAsif2002/main/GitHubBanner.png" 
     alt="logo"
-    style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
+    style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
   >
 </div>
 
