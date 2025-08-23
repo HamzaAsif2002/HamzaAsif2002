@@ -14,6 +14,9 @@
 <h3 align="center">💻 A passionate full-stack developer from Pakistan</h3>
 
 <!-- Animated GIF -->
+[![All Projects](https://img.shields.io/badge/🌐-All%20Projects%20Gallery-blue)](https://all-projects-gallery-hamza.vercel.app/)
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="coding" />
 </p>
