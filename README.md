@@ -14,15 +14,15 @@
 <h3 align="center">💻 A passionate full-stack developer from Pakistan</h3>
 
 <!-- Animated GIF -->
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td width="60%" valign="top">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400" alt="coding" />
 
-<br/> <!-- gap above badge -->
+
+ <!-- imfo -->
 <a href="https://all-projects-gallery-hamza.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐-All%20Projects%20Gallery-blue" alt="All Projects" />
 </a>  
-
+<br/>
+<br/>
 <ul>
   <li>👨‍💻 All of my projects are available at  
     <a href="https://all-projects-gallery-hamza.vercel.app/" target="_blank">
@@ -32,22 +32,12 @@
   <br/>
   <li>🌱 I’m currently learning <b>NodeJs</b></li>
   <br/>
-  <li>💬 Ask me about <b>Reactjs, Nodejs, Expressjs, MongoDB, React-Native, MachineLearning</b></li>
+  <li>💬 Ask me about <b>Reactjs</b></li>
   <br/>
   <li>📫 How to reach me <b>hamza20021asif@gmail.com</b></li>
   <br/>
-  <li>⚡ Fun fact <b>I think I'm a serious</b></li>
+  <li>⚡ Fun fact <b>I think I'm serious</b></li>
 </ul>
-
-</td>
-<td width="40%" align="right" valign="top">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="coding" />
-</td>
-
-</tr>
-</table>
-
-
 
 
 
