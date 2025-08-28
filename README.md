@@ -14,6 +14,8 @@
 <h3 align="center">💻 A passionate full-stack developer from Pakistan</h3>
 
 <!-- Animated GIF -->
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaAsif2002&label=Profile%20views&color=0e75b6&style=flat)
+
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400" alt="coding" />
 
 
