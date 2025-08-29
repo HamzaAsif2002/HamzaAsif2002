@@ -45,9 +45,9 @@
 
 ---
 
-### 📫 Contact Me
+### Connect with me:
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-wahab-aw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamza-asif-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-wahab-aw" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.abdulwahab.aw" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul-wahab-aw" height="30" width="40" /></a>
 </p>
@@ -77,13 +77,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaasif2002&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; width: 50%;" />
 </p>
 
----
-### 🌐 Connect with Me
-<p>
-  <a href="https://github.com/hamzaasif2002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:hamza20021asif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
