@@ -32,6 +32,12 @@
     </a>
   </li>
   <br/>
+  <li>🌐 Check out my portfolio at  
+  <a href="https://portfolio-hamzaasif.vercel.app/" target="_blank" class="text-blue-600 hover:underline">
+    https://portfolio-hamzaasif.vercel.app/
+  </a>
+</li>
+<br/>
   <li>🌱 I’m currently learning <b>NodeJs</b></li>
   <br/>
   <li>💬 Ask me about <b>Reactjs</b></li>
