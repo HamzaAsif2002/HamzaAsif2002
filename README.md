@@ -38,9 +38,9 @@
   </a>
 </li>
 <br/>
-  <li>🌱 I’m currently learning <b>NodeJs</b></li>
+  <li>🌱 I’m currently learning <b>ExpressJs</b></li>
   <br/>
-  <li>💬 Ask me about <b>Reactjs</b></li>
+  <li>💬 Ask me about <b>JavaScript, ReactJs, NodeJs</b></li>
   <br/>
   <li>📫 How to reach me <b>hamza20021asif@gmail.com</b></li>
   <br/>
