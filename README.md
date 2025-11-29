@@ -1,7 +1,7 @@
 
 <div>
   <img 
-    src="https://raw.githubusercontent.com/HamzaAsif2002/HamzaAsif2002/main/GitHubBanner.png" 
+    src="https://raw.githubusercontent.com/HamzaAsif2002/HamzaAsif2002/main/GithubBanner.png" 
     alt="logo"
     style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
   >
