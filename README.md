@@ -38,7 +38,7 @@
   </a>
 </li>
 <br/>
-  <li>🌱 I’m currently learning <b>ExpressJs</b></li>
+  <li>🌱 I’m currently learning <b>ExpressJs, MongoDB</b></li>
   <br/>
   <li>💬 Ask me about <b>JavaScript, ReactJs, NodeJs</b></li>
   <br/>
